@@ -31,7 +31,7 @@ async function login() {
 
     var logObj = {
         "email": username.value,
-        "password": pass.value //check what is ""
+        "password": pass.value
     }
 
     try {
